@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="WkzuzJuz80rkRivc9DpX" name="plan réseau">
-        <mxGraphModel dx="2294" dy="1238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1814" dy="1238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -22,10 +22,10 @@
                 <mxCell id="12" value="serveur linux apache" style="shape=mxgraph.cisco.servers.standard_host;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="23" vertex="1">
                     <mxGeometry x="90" y="24" width="43" height="62" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="windows server ad + dhcp + dns" style="shape=mxgraph.cisco.servers.standard_host;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="23" vertex="1">
+                <mxCell id="16" value="windows server ad + dhcp + dns" style="shape=mxgraph.cisco.servers.standard_host;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#d80073;strokeColor=#A50040;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontColor=#ffffff;" parent="23" vertex="1">
                     <mxGeometry x="95" y="141" width="43" height="62" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" value="Fichier partagé" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.network_file_share_service;" parent="23" vertex="1">
+                <mxCell id="44" value="Fichier partagé" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#A50040;fillColor=#d80073;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.network_file_share_service;fontColor=#ffffff;" parent="23" vertex="1">
                     <mxGeometry x="267" y="150" width="55" height="53" as="geometry"/>
                 </mxCell>
                 <mxCell id="48" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="23" source="16" target="44">
